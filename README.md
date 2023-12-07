@@ -1,4 +1,4 @@
-### Hi there, I'm David and is very fascinated in the <a href="https://www.linkedin.com/in/dee-phan-301226297/">IT field</a>☺</h1>
+### Hi there, I'm David and I am very fascinated in the <a href="https://www.linkedin.com/in/dee-phan-301226297/">IT field</a>☺</h1>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
