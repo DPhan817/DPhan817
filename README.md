@@ -11,7 +11,7 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/DPhan817/azure-network-protocols)
  
 - <b>Virtual Private Network (VPN)</b>
- - [VPN Configuration](https://github.com/DPhan817/VPN-Configuration-)
+  - [VPN Configuration](https://github.com/DPhan817/VPN-Configuration-)
 
 <h2>🤳Connect with me:</h2>
 
