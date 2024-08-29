@@ -1,4 +1,5 @@
-### Hi there, I'm David and I am very fascinated in the <a href="https://linkedin.com/in/david-phan-301226297">IT field and here are my accomplishments </a>☺</h1> 
+### Hi there, I'm David and here are my accomplishments.
+ I am very fascinated in the <a href="https://linkedin.com/in/david-phan-301226297">IT field  </a>☺</h1> 
 
 <h2>👨‍💻 Information Technology Projects:💻</h2>
 
